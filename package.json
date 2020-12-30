@@ -127,5 +127,8 @@
         "maxSize": "6 KB"
       }
     ]
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
   }
 }
